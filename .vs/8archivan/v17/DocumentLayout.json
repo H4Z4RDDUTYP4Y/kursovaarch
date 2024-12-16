@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deffiepaws\\Desktop\\2222\\TICTAC\\8archivan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAAE4F6-5CEA-46EF-942E-675ED19D2C08}|8archivan\\8archivan.vcxproj|C:\\Users\\deffiepaws\\Desktop\\2222\\TICTAC\\8archivan\\8archivan\\8archivan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACAAE4F6-5CEA-46EF-942E-675ED19D2C08}|8archivan\\8archivan.vcxproj|solutionrelative:8archivan\\8archivan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8archivan.cpp",
+              "DocumentMoniker": "C:\\Users\\deffiepaws\\Desktop\\2222\\TICTAC\\8archivan\\8archivan\\8archivan.cpp",
+              "RelativeDocumentMoniker": "8archivan\\8archivan.cpp",
+              "ToolTip": "C:\\Users\\deffiepaws\\Desktop\\2222\\TICTAC\\8archivan\\8archivan\\8archivan.cpp",
+              "RelativeToolTip": "8archivan\\8archivan.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T12:39:41.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

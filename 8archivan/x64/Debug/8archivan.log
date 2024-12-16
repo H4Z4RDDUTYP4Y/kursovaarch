@@ -1,0 +1,36 @@
+﻿  8archivan.cpp
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(16,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(17,9): error C2065: 'fld': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(17,13): error C2146: syntax error: missing ';' before identifier 'n'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(18,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(18,9): error C2065: 'fld': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(18,13): error C2146: syntax error: missing ';' before identifier 'n'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(19,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(19,9): error C2065: 'fmul': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(20,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(20,9): error C2065: 'fld': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(20,13): error C2146: syntax error: missing ';' before identifier 'st'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(20,13): error C3861: 'st': identifier not found
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(21,9): error C2065: 'fld1': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'fldl2t'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(22,9): error C2065: 'fldl2t': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(23,9): error C2065: 'fmul': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(24,9): error C2146: syntax error: missing ';' before identifier 'fldl2t'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(24,9): error C2065: 'fldl2t': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(25,9): error C2146: syntax error: missing ';' before identifier 'fld'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(25,9): error C2065: 'fld': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(25,13): error C2146: syntax error: missing ';' before identifier 'n'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(26,9): error C2146: syntax error: missing ';' before identifier 'fmul'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(26,9): error C2065: 'fmul': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(27,9): error C2146: syntax error: missing ';' before identifier 'faddp'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(27,9): error C2065: 'faddp': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(28,9): error C2146: syntax error: missing ';' before identifier 'fld1'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(28,9): error C2065: 'fld1': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(29,9): error C2146: syntax error: missing ';' before identifier 'faddp'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(29,9): error C2065: 'faddp': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(30,9): error C2146: syntax error: missing ';' before identifier 'fstp'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(30,9): error C2065: 'fstp': undeclared identifier
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(30,14): error C2146: syntax error: missing ';' before identifier 'result'
+C:\Users\deffiepaws\Desktop\2222\TICTAC\8archivan\8archivan\8archivan.cpp(31,5): error C2143: syntax error: missing ';' before '}'
